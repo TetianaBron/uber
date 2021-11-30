@@ -1,2 +1,7 @@
-# uber
-Responsive layout using bootstrap layout
+# Uber
+Responsive Landing Page
+
+## Technologies are used: 
+* html5; 
+* scss
+* bootstrap grid
